@@ -1,0 +1,18 @@
+# Ignore virtual environment
+venv/
+learn-python/
+# Ignore Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+# Ignore Python bytecode
+__pycache__/
+# Ignore log files
+*.log
+# Ignore data files
+data/
+# Ignore model files
+models/
+# Ignore configuration files
+*.json
+# Ignore temporary files
+*.tmp
+# Ignore environment files      
